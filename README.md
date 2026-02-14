@@ -29,8 +29,8 @@ I am **Nir**, a digital creator and full-stack technician based in Nepal 🇳�
 - [Link to Live Demo](#) - [Link to Case Study](#) ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoshpick22&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoshpick22&layout=compact&theme=tokyonight)
 
 ---
 
